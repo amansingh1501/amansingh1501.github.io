@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="260" viewBox="0 0 840 260" role="img" aria-labelledby="ghf-title ghf-desc">
+<title id="ghf-title">Aman Kumar Singh, Team Lead and Senior Software Engineer</title>
+<desc id="ghf-desc">Ink drops in indigo, turmeric and madder merge and separate beside the name.</desc>
+<defs><filter id="ghf-goo" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur in="SourceGraphic" stdDeviation="9" result="b"/><feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 20 -8" result="g"/><feComposite in="SourceGraphic" in2="g" operator="atop"/></filter></defs>
+<style>
+.ghf-bg{fill:#f4f6fa}
+.ghf-name{font:800 46px 'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;fill:#141a33;letter-spacing:-1.5px}
+.ghf-role{font:500 16px 'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;fill:#454d6b}
+.ghf-m{font:12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#454d6b}
+.ghf-wave{fill:none;stroke:#2e3a8c;stroke-width:2;stroke-linecap:round;stroke-dasharray:6 8;animation:ghf-flow 2.4s linear infinite}
+@keyframes ghf-flow{to{stroke-dashoffset:-28}}
+.ghf-a{animation:ghf-a 9s ease-in-out infinite}.ghf-b{animation:ghf-b 7s ease-in-out infinite}.ghf-c{animation:ghf-c 11s ease-in-out infinite}.ghf-d{animation:ghf-d 8s ease-in-out infinite}
+@keyframes ghf-a{0%,100%{transform:translate(0,0)}33%{transform:translate(46px,-22px)}66%{transform:translate(-18px,26px)}}
+@keyframes ghf-b{0%,100%{transform:translate(0,0)}50%{transform:translate(-52px,18px)}}
+@keyframes ghf-c{0%,100%{transform:translate(0,0)}40%{transform:translate(30px,34px)}75%{transform:translate(-40px,-10px)}}
+@keyframes ghf-d{0%,100%{transform:translate(0,0)}50%{transform:translate(24px,-36px)}}
+@media (prefers-reduced-motion:reduce){.ghf-a,.ghf-b,.ghf-c,.ghf-d,.ghf-wave{animation:none}}
+</style>
+<rect class="ghf-bg" width="840" height="260" rx="14"/>
+<g filter="url(#ghf-goo)">
+  <circle class="ghf-a" cx="650" cy="128" r="38" fill="#2e3a8c"/>
+  <circle class="ghf-b" cx="716" cy="102" r="24" fill="#2e3a8c"/>
+  <circle class="ghf-c" cx="604" cy="168" r="26" fill="#c98a12"/>
+  <circle class="ghf-d" cx="760" cy="160" r="22" fill="#a92f28"/>
+  <circle class="ghf-b" cx="712" cy="196" r="15" fill="#c98a12"/>
+  <circle class="ghf-c" cx="676" cy="62" r="16" fill="#a92f28"/>
+  <circle class="ghf-d" cx="590" cy="92" r="12" fill="#2e3a8c"/>
+</g>
+<text class="ghf-m" x="34" y="52">aks / ink · amanksingh.com · Noida, India</text>
+<text class="ghf-name" x="32" y="112">Aman Kumar Singh</text>
+<text class="ghf-role" x="34" y="144">Team Lead &amp; Senior Software Engineer</text>
+<path class="ghf-wave" d="M34 166 Q 46 158 58 166 T 82 166 T 106 166 T 130 166 T 154 166 T 178 166 T 202 166 T 226 166 T 250 166 T 274 166 T 298 166"/>
+<text class="ghf-m" x="34" y="204">React · Next.js · Node.js · NestJS · PostgreSQL · AWS</text>
+</svg>

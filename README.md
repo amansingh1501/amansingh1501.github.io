@@ -22,7 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="./assets/system-architecture.svg" width="760" alt="Animated system architecture overview for Aman Kumar Singh" />
+  <a href="https://amanksingh.com">
+    <img src="./assets/header-fluid.svg" width="840" alt="Aman Kumar Singh, Team Lead and Senior Software Engineer. Animated ink drops in indigo, turmeric and madder merge and separate beside his name, with React, Next.js, Node.js, NestJS, PostgreSQL and AWS listed below. Links to amanksingh.com." />
+  </a>
 </p>
 
 ---
